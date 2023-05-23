@@ -8,7 +8,7 @@ import linkedin from "./LinkedIn_1.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
 import ravi from "./ravi.jpg";
-// import chatgpt from "./chatGPT.png";
+import chatgpt from "./company/honeyuncle.png";
 import manoffice from "./manoffice.gif"
 import officeplus from "./officeplus.gif"
 import standingman from "./standingman.png"
@@ -58,7 +58,7 @@ export {
   menu,
   close,
   ravi,
-  // chatgpt,
+  chatgpt,
   cv,
   css,
   docker,
