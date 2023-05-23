@@ -58,7 +58,7 @@ export {
   menu,
   close,
   ravi,
-  chatgpt,
+  // chatgpt,
   cv,
   css,
   docker,
