@@ -1,6 +1,8 @@
 import { BrowserRouter } from "react-router-dom"
 
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Social } from './components'
+import Gg from "./components/Gg"
+import Gg2 from "./components/Gg2"
 
 
 const App = () => {
@@ -9,14 +11,16 @@ const App = () => {
     <BrowserRouter>
       <div className=" relative  z-0 bg-main">
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-          <Navbar />
+          {/* <Navbar /> */}
           <Hero />
-        </div>
-        <About />
+          <Gg/>
         <Experience />
+          <Gg2/>
+        {/* <Works /> */}
+        </div>
+        {/* <About />
         <Tech />
-        <Works />
-        <Feedbacks />
+        <Feedbacks /> */}
         <div className="relative z-0">
             <Contact />
         </div>
