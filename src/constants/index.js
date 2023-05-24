@@ -61,13 +61,14 @@ import {
       icon: reactjs,
     },
     {
-      title: "Node",
-      icon: nodejs,
-    },
-    {
       title: "NextJs",
       icon: express,
     },
+      {
+        title: "Node",
+        icon: nodejs,
+      },
+  
     {
       title: "Three.JS",
       icon: threejs,

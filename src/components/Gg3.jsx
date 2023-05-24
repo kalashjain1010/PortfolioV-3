@@ -129,7 +129,7 @@ const Gg3 = () => {
         <Tech/>
         {/* <Works/> */}
       </div>
-      <div ref={canvasRef} className="canvas-container"></div>
+      <div ref={canvasRef} className="canvas-container3"></div>
     </div>
        
     </>

@@ -32,7 +32,7 @@ const Social = () => {
     </motion.div>
       <br />
       <footer className="text-center max-sm:mt-20">
-        Made with SleepLess Nights 🙂
+       Did you feel alone too when that thing stop following your cursor? 🙂
       </footer>
 
 
