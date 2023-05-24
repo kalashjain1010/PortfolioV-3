@@ -1,7 +1,7 @@
-.my-website-container1 {
+.my-website-container3 {
     position: relative;
     width: 100%;
-    height: 200vh;
+    height: 300vh;
     overflow: hidden;
     padding-right: 100px; 
   }
@@ -14,7 +14,7 @@
     z-index: 2;
   }
   
-  .portfolio-content1 {
+  .portfolio-content3 {
     position: absolute;
     top: 50%;
     left: 0; /* Set left position to 0 for aligning content to the left */
@@ -23,26 +23,12 @@
     text-align: left; /* Align text to the left */
     color: white;
     width: 100%;
+    /* height: 100%; */
     padding-left: 20px; /* Add left padding for additional spacing */
   }
   
   .canvas-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+   margin: 0;
   }
-  
-  .exp{
-    position: absolute;
-    margin-top: 50px;
-     left: 0; /* Set left position to 0 for aligning content to the left */
-    transform: translate(0, -50%);
-    z-index: 1;
-    text-align: left; /* Align text to the left */
-    color: white;
-    width: 100%;
-    padding-left: 20px; /* Add left padding for additional spacing */
-  }
+
   
